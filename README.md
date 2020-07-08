@@ -4,6 +4,8 @@ This differs from the randomizer in that that changes with every note pressed, s
 
 It can be assigned to pitch bend, polyphonic aftertouch or a cc channel.
 
+For more information on Logic Pro X's scripter, please see https://support.apple.com/kb/PH26956?locale=en_GB. To use this code, open scripter, click 'Open Script in Editor', paste in Script.js from here, then hit Run Script.
+
 Thoughts/extensions appreciated.
 
 Please, use, change and adapt and let me know how you get on! 
